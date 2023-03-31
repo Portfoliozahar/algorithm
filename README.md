@@ -1,1 +1,1 @@
-# My algoritm
+# My algorithm
